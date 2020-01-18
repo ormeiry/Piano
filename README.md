@@ -8,3 +8,6 @@ There are some things i can do better now.
 
 I will update it in the near future for sure.
 
+
+You can use the mouse or the number keys to play!
+
