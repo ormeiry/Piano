@@ -15,7 +15,7 @@ body {
 }
 
 .piano {
-  zoom: 3;
+  zoom: 2;
   -moz-transform: scale(0.5);
   display: flex;
   position: relative;
