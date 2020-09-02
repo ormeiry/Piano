@@ -1,13 +1,9 @@
 # Piano
 
-One of my first projects
+### One of my first projects
 
-It was fun building it at the time.
+#### It was fun building it at the time.
 
-There are some things i can do better now.
+#### I will update it in the near future for sure. --- Updated it! ---
 
-I will update it in the near future for sure.
-
-
-You can use the mouse or the number keys to play!
-
+#### You can click on the piano or play on the keyboard key "Q" to "P" for the white and "2-3", "5-6-7", "9-0" for the black ones!
